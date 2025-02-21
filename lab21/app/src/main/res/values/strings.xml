@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Localized application</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cat_male">cat</string>
+    <string name="action_cat_female">cats</string>
+    <string name="action_kitten">catsi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="flagCounter">Flag UK</string>
+</resources>

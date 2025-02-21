@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="first_text">Наташ, ты спишь?</string>
+    <string name="second_text">Уже 6 часов утра, Наташ</string>
+    <string name="third_text">Вставай, мы там всё уронили</string>
+    <string name="forth_text">Мы уронили вообще всё, Наташ, честно</string>
+    <string name="description_left_up_text">A cat in the left-up corner</string>
+    <string name="description_left_bottom_text">A cat in the left-bottom corner</string>
+    <string name="description_right_up_text">A cat in the right-up corner</string>
+    <string name="description_right_bottom_text">A cat in the right-bottom corner</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="button">О программе</string>
+
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+
+    <string name="about_title">О программе</string>
+
+    <string name="button_two">Настройки</string>
+
+    <string name="activ_second">Выберете настройки</string>
+
+    <string name="hint_one">Кому</string>
+
+    <string name="hint_two">Описание</string>
+
+    <string name="button_text">Передать</string>
+
+    <string name="show_toast">Показать Toast</string>
+    <string name="cat_food">Хочу кушать !!!</string>
+
+</resources>
